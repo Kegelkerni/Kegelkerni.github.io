@@ -14,3 +14,5 @@ My first movie with Johnny Depp that i saw was "Edward mit den Scherenhaenden". 
 As Johnny said:
 
 > Ich finde, der Name passt perfekt zu mir.
+
+<img src="https://de.wikiquote.org/wiki/Johnny_Depp#/media/Datei:Johnny_Depp_(July_2009)_1.jpg"/>
