@@ -10,3 +10,7 @@ My first movie with Johnny Depp that i saw was "Edward mit den Scherenhaenden". 
 * confident
 * brave
 * chatty
+
+As Johnny said:
+
+> Ich finde, der Name passt perfekt zu mir.
