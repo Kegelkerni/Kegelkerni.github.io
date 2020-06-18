@@ -15,4 +15,4 @@ As Johnny said:
 
 > Ich finde, der Name passt perfekt zu mir.
 
-<img src="https://de.wikiquote.org/wiki/Johnny_Depp#/media/Datei:Johnny_Depp_(July_2009)_1.jpg"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Johnny_Depp_%28July_2009%29_1.jpg"/>
